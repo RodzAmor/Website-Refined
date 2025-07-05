@@ -1,8 +1,9 @@
 @import 'katex/dist/katex.min.css';
+@import url('/fonts/satoshi/css/satoshi.css');
 
 body {
   margin: 0;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+  font-family: 'Satoshi-Regular', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
   color: #111;
   background-color: #fff;
   line-height: 1.6;
